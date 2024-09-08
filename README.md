@@ -66,6 +66,14 @@ This project aims to build a Natural Language Processing (NLP) model capable of 
 
 ## Usage
 
+### Using docker
+
+This porject provide a docker-compose.yml file to run the project in a docker container. To run the project follow this steps:
+
+```
+docker-compose up
+```
+
 1. **Data Preprocessing**: 
     - Run the preprocessing script to clean and prepare the data for modeling:
       ```bash
